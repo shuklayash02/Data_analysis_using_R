@@ -1,3 +1,3 @@
 # data_analysis_using_R
-covid19- Statical analysis and cleaning using R language 
+Covid 19- Statical analysis and cleaning using R-Programming language
 
